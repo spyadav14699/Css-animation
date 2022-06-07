@@ -11,7 +11,7 @@ Some Html and css work
 
 ## 🔴 Live Demo
 
-👉 **Preview**: https://boisterous-tarsier-a79a3d.netlify.app/
+👉 **Preview**: https://flourishing-malabi-facbcc.netlify.app/
 ## 🖥️ Technologies
 
 - HTML
